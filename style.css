@@ -2,4 +2,5 @@ body{
     background: #000000;
     font-family: 'Noto-Sans', sans-serif;
     cursor: default;
+    opacity: 0%;
 }
